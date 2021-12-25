@@ -1,0 +1,5 @@
+Deprecated==1.2.13
+kafka-python==2.0.2
+pymongo==4.0.1
+redis==4.0.2
+wrapt==1.13.3
